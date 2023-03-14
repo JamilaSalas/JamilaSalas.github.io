@@ -1,0 +1,23 @@
+#logo1{
+    float: left;
+    display: inline-block;
+    width: 20%;
+}
+#textotitulo{
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+}
+#logo2{
+    float: right;
+    display: inline-block;
+    width: 28%;
+}
+body{
+    background-color: #b6e3e9;
+}
+p{
+    text-align: justify;
+    width: 100%;
+    float: center;
+}

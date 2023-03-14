@@ -1,0 +1,38 @@
+#textotitulo{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    border: double;
+    border-radius: 60px;
+    border-style: dotted;
+}
+.fotos{
+    float: center;
+    width: 1010px;
+    border: double;
+}
+.indice{
+    font-size: 30px;
+}
+p{
+    font-size: 20px
+}
+a{
+    color:#4f766f;
+    width: 100%;
+}
+body{
+    background-color: #b6e3e9;
+}
+
+aside{
+    float: left;
+    width: 20%;
+}
+
+section{
+    float: right;
+    width: 70%;
+    color: mediumslateblue;
+    
+}

@@ -1,0 +1,30 @@
+#logo1{
+    float: left;
+    display: inline-block;
+    width: 10%;
+    margin: 2%;
+}
+#textotitulo{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    border: double;
+    border-radius: 60px;
+    border-style: dotted;
+}
+#mapa{
+    float: right;
+    width: 35%;
+}
+body{
+    background-color: #b6e3e9;
+    padding: 10px;
+}
+p{
+    text-align: justify;
+    width: 60%;
+    
+}
+#foto2{
+    float: left;
+}
